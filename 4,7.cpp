@@ -22,7 +22,7 @@ int main()
 	while (x <= xk)
 	{
 		n = 0; 
-		a = 1; 
+		a = x;
 		S = a;
 		do {
 			n++;
